@@ -1,3 +1,3 @@
 <?php
 echo "Hello PHP";
-echo "First change commit to GitHub";
+echo "Second change commit to GitHub";
